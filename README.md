@@ -39,13 +39,13 @@
 
 ## **:wrench:**
 
-<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />
-<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />
+<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />;
+<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />;
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />;
+<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />;
+<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />;
+<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />;
 <br/>
 
 <p align="center">
