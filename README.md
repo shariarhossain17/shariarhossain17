@@ -19,22 +19,22 @@
 
 ## **My Skills :octocat:**
 
-[<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>][link]&nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />][github]&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Logo%20Design-5b5a5a?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Brand%20Design-ff6b4e?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
+[<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />];
+[<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>];
+[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />];
+[<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />];
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />];
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />];
+[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow" />];
+[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />];
+[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />];
+[<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />];
+[<img src="https://img.shields.io/badge/Logo%20Design-5b5a5a?style=for-the-badge&logo=&logoColor=4db5ff" />];
+[<img src="https://img.shields.io/badge/Brand%20Design-ff6b4e?style=for-the-badge&logo=&logoColor=4db5ff" />];
 <br/>
 
 ## **:wrench:**
@@ -42,13 +42,13 @@
 [<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Indesign-7c001f?style=for-the-badge&logo=adobe%20indesign&logoColor=#310000" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=9d56f7" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
+[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />];
+[<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />];
+[<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />];
+[<img src="https://img.shields.io/badge/Indesign-7c001f?style=for-the-badge&logo=adobe%20indesign&logoColor=#310000" />];
+[<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=9d56f7" />];
+[<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />];
 <br/>
 
 <p align="center">
