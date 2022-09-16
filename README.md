@@ -12,9 +12,8 @@
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]&nbsp;
-[<img src="https://img.shields.io/badge/Dribbble-1e010b?style=for-the-badge&logo=dribbble&logoColor=f9397c" />][dribbble]&nbsp;
-[<img src="https://img.shields.io/badge/Fiverr-0ad806?style=for-the-badge&logo=fiverr&logoColor=white" />][fiverr]&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][instagram]&nbsp;
+
 
 
 
@@ -82,6 +81,6 @@
 
 [facebook]: https://www.facebook.com/sh.shariar17/ 'Facebook'
 [linkedin]: https://www.linkedin.com/in/shariarhossain17/ 'LinkedIn'
-[instagram]: https://www.instagram.com/shariar1723/ 'Github'
+[instagram]: https://www.instagram.com/shariar1723/ 'Instagram'
 
 
