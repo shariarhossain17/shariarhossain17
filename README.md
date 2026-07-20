@@ -245,8 +245,6 @@ const shahriar = {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 
 </div>
